@@ -1,0 +1,8 @@
+The files in this folder comprise the Vehicle Management System created for Object Oriented Software Design
+
+This system allows a user, after logging in via employee ID,to:
+      check in or out a vehicle
+      search for vehicle
+      see ID's of past vehicles taken out 
+      
+Any changes made are maintained after exiting the system
